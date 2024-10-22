@@ -4,7 +4,7 @@ import AppCardProject from './AppProjectCard.vue';
 export default {
   name:'AppProject',
   components:{
-        AppCardProject
+        AppCardProject,
     },
     data(){
         return{
