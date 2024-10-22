@@ -1,6 +1,6 @@
 <script>
 import axios from 'axios';
-import AppCardProject from './AppProjectCard.vue';
+import AppCardProject from '../components/AppProjectCard.vue';
 export default {
   name:'AppProject',
   components:{
