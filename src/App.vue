@@ -2,7 +2,7 @@
 import AppProject from './components/AppProject.vue';
 export default {
   components:{
-    AppProject
+    AppProject,
   }
 }
 </script>
@@ -13,6 +13,6 @@ export default {
   </div>
 </template>
 
-<style lang="">
-
+<style lang="scss">
+@import './styles/generals.scss';
 </style>
